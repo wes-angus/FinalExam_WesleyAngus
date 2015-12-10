@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Location Sample</string>
+
+    <string name="location">Location</string>
+    <string name="search">Search</string>
+
+    <string name="title_activity_maps">Showing Map</string>
+    
+    <string name="data_url">http://bikesharetoronto.com/data/stations/bikeStations.xml</string>
+    <string name="bike_id">Bike Share ID:</string>
+    <string name="name">Name:</string>
+    <string name="address">Address:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="num_bikes">Number of Bikes:</string>
+    <string name="save">Save</string>
+    <string name="show_map">Show On Map</string>
+</resources>
